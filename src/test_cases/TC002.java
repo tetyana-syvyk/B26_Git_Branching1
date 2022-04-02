@@ -8,4 +8,8 @@ public class TC002 {
     // creating a report
 
     // screenshot in failure
+
+    // creating a report 2
+
+    // screenshot in failure2
 }
